@@ -1,16 +1,16 @@
-## Hi there 👋
+# Artem Bibikov
 
-<!--
-**ArtemBibikov/ArtemBibikov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Python Backend Developer  
+FastAPI • PostgreSQL • SQLAlchemy • Redis • Celery • Docker
 
-Here are some ideas to get you started:
+## About me
+Backend-разработчик с опытом разработки production-сервисов на Python.
+Специализируюсь на FastAPI, асинхронной архитектуре, очередях задач и работе с базами данных.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I do
+- Разрабатываю backend API
+- Оптимизирую SQL-запросы и архитектуру сервисов
+- Настраиваю мониторинг, логирование и тестирование
+
+## Tech stack
+Python, FastAPI, PostgreSQL, SQLAlchemy, Redis, Celery, Docker, Pytest, Sentry, Prometheus, Grafana, Git, Linux
