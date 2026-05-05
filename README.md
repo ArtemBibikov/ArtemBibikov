@@ -1,16 +1,27 @@
-# Artem Bibikov
+# Артём Бибиков
 
-Python Backend Developer  
-FastAPI • PostgreSQL • SQLAlchemy • Redis • Celery • Docker
+**Python Backend Developer**  
+FastAPI • Async • Production
 
-## About me
-Backend-разработчик с опытом разработки production-сервисов на Python.
-Специализируюсь на FastAPI, асинхронной архитектуре, очередях задач и работе с базами данных.
+Специализируюсь на разработке **масштабируемых backend-систем**:
 
-## What I do
-- Разрабатываю backend API
-- Оптимизирую SQL-запросы и архитектуру сервисов
-- Настраиваю мониторинг, логирование и тестирование
+- Быстрые API на **FastAPI**
+- **Асинхронная архитектура**
+- **Production-ready** решения
 
-## Tech stack
-Python, FastAPI, PostgreSQL, SQLAlchemy, Redis, Celery, Docker, Pytest, Sentry, Prometheus, Grafana, Git, Linux
+## 🛠️ Стек
+
+| Основное | Инфраструктура | Мониторинг |
+|---|---|---|
+| FastAPI | Docker | Sentry |
+| asyncio | PostgreSQL | Grafana |
+| SQLAlchemy | Redis | Prometheus |
+| Celery | Linux |  |
+| Git |  |  |
+
+## 💡 Подход
+
+**Clean Code** • **SOLID** • **Production-first**
+
+Пишу код, который **масштабируется**, **поддерживается** и **не падает в продакшене**.
+
