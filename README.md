@@ -9,7 +9,7 @@ FastAPI • Async • Production
 - **Асинхронная архитектура**
 - **Production-ready** решения
 
-## 🛠️ Стек
+## - Стек
 
 | Основное | Инфраструктура | Мониторинг |
 |---|---|---|
@@ -19,7 +19,7 @@ FastAPI • Async • Production
 | Celery | Linux |  |
 | Git |  |  |
 
-## 💡 Подход
+## - Подход
 
 **Clean Code** • **SOLID** • **Production-first**
 
