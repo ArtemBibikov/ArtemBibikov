@@ -1,6 +1,15 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=3776AB&center=true&vCenter=true&width=600&height=70&lines=🐍+Python+%2B+FastAPI;⚡+Асинхронные+сервисы;📦+Микросервисы+%26+Kafka;🎯+Чистый+код+%26+SOLID;🚀+От+идеи+до+продакшена" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3776AB&center=true&vCenter=true&width=500&lines=Python-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA;Backend+%D0%B8%D0%BD%D0%B6%D0%B5%D0%BD%D0%B5%D1%80;FastAPI+%7C+Celery+%7C+PostgreSQL" />
 </div>
+
+<p align="center">
+  <a href="https://t.me/Bibikov_Artem" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
+  <a href="mailto:bibikovartem.m@mail.ru" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
 ---
 
@@ -79,9 +88,3 @@
 
 **Цель:** Ищу интересные backend-задачи на Python (FastAPI) — построение надёжных, масштабируемых и отказоустойчивых систем.  
 Готов к **удалённой**, гибридной работе или частичной занятости. Открыт к стажировкам и проектным заданиям.
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ТВОЙ_NICKNAME&style=flat-square&color=blue" alt=""/>
-</div>
