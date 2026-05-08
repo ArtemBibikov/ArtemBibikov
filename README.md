@@ -1,14 +1,5 @@
 <div align="center">
-  <pre>
-  ██████╗ ██╗   ██╗████████╗██╗  ██╗ ██████╗ ███╗   ██╗
-  ██╔══██╗╚██╗ ██╔╝╚══██╔══╝██║  ██║██╔═══██╗████╗  ██║
-  ██████╔╝ ╚████╔╝    ██║   ███████║██║   ██║██╔██╗ ██║
-  ██╔═══╝   ╚██╔╝     ██║   ██╔══██║██║   ██║██║╚██╗██║
-  ██║        ██║      ██║   ██║  ██║╚██████╔╝██║ ╚████║
-  ╚═╝        ╚═╝      ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝
-  </pre>
-  <h3>Python-разработчик | Backend инженер</h3>
-  <p>FastAPI · Celery · PostgreSQL · Kafka</p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=3776AB&center=true&vCenter=true&width=600&height=70&lines=🐍+Python+%2B+FastAPI;⚡+Асинхронные+сервисы;📦+Микросервисы+%26+Kafka;🎯+Чистый+код+%26+SOLID;🚀+От+идеи+до+продакшена" />
 </div>
 
 ---
