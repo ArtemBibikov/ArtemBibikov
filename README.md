@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="https://64.media.tumblr.com/7c76ad71af91fb97e777d00ab1ac0b34/b916bc1a9c226b7c-ac/s640x960/484a4c276a4b629d6ac4d186c32d4113a5502779.gif" alt="Pixel Capybara" width="350" style="display: block; margin: 0 auto;">
+  <br>
+</div>
+<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3776AB&center=true&vCenter=true&width=500&lines=Python-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA;Backend+%D0%B8%D0%BD%D0%B6%D0%B5%D0%BD%D0%B5%D1%80;FastAPI+%7C+Celery+%7C+PostgreSQL" />
 </div>
 
